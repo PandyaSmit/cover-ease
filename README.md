@@ -13,7 +13,4 @@
 - Accent: Green (#2ecc71) to highlight key actions and success states.
 - Clean and structured layout to guide the user through the input process.
 - Use simple, professional icons to represent different input fields and actions.
-
-## Original User Request:
-Create a nextjs app create a cover letter from hugging face inference api
   
