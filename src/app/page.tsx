@@ -20,8 +20,7 @@ export default function Home() {
           </CardContent>
         </Card>
         <footer className="mt-8 text-center text-muted-foreground text-sm">
-          Powered by Hugging Face & Next.js
-          Made with <i class="icon ion-heart"></i> by Smit Pandya
+          Powered by Hugging Face & Next.js, created by Smit Pandya
         </footer>
       </div>
     </CoverLetterProvider>
