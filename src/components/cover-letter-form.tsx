@@ -31,7 +31,7 @@ import {
 
 // List of available models
 const availableModels = [
-  { id: 'google/flan-t5-large', name: 'Flan-T5 Large' },
+  { id: 'google/flan-t5-base', name: 'Flan-T5 Base' },
   { id: 'tiiuae/falcon-rw-1b', name: 'Falcon RW 1B' },
   { id: 'microsoft/phi-1_5', name: 'Phi 1.5' },
 ] as const; // Use 'as const' for stricter typing
